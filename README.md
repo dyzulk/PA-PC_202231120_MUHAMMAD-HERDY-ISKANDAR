@@ -88,7 +88,7 @@ Skrip menampilkan empat gambar:
 
 Gambar Asli berwarna.
 Median Gambar yang Difilter dalam skala abu-abu.    
-[Gambar Asli berwarna. & Median Gambar yang Difilter dalam skala abu-abu.](./SS/file_2024-07-16_10.13.41.png)    
+![Gambar Asli berwarna. & Median Gambar yang Difilter dalam skala abu-abu.](./SS/file_2024-07-16_10.13.41.png)    
 Gambar Asli dalam skala abu-abu.    
 Berarti Gambar yang Difilter dalam skala abu-abu.    
-[Gambar Asli dalam skala abu-abu. & Berarti Gambar yang Difilter dalam skala abu-abu.](./SS/file_2024-07-16_10.13.54.png)    
+![Gambar Asli dalam skala abu-abu. & Berarti Gambar yang Difilter dalam skala abu-abu.](./SS/file_2024-07-16_10.13.54.png)    
